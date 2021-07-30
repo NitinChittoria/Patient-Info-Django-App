@@ -1,3 +1,3 @@
 # Patient-Info-Django-App
 
-cdcsdcsd
+Create, Update, Delete and List operations for patient using CBV
